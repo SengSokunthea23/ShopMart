@@ -1,4 +1,4 @@
-// File: E:\SETEC\Year4\Semester1\E-Commerce\Ecom_Midterm\app\page.tsx
+// File: D:\2. My Self\SETEC INSTITUTE\2025\3. E-Commerce\ShopMart\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
